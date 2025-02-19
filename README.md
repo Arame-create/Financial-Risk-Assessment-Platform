@@ -2,7 +2,7 @@
 
 This repository contains an interactive Jupyter Notebook designed to perform statistical analysis and risk measurement.             
 
-**PLATEFORME MESURES STATISTIQUES.ipynb**   
+**PLATEFORME MESURES STATISTIQUES-2.ipynb**   
 
 *Statistical Metrics Platform*    
 
@@ -10,3 +10,7 @@ This repository contains an interactive Jupyter Notebook designed to perform sta
 * Implements interactive widgets to allow user-driven analysis.   
 * Provides data visualization of key statistical metrics.
 * Uses RSI and MACD for investment decisions.
+
+**edhec_risk_kit.py**  
+
+*Risk Management Module provided by EDHEC*    
