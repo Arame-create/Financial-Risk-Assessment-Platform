@@ -17,7 +17,7 @@ This repository contains an interactive Jupyter Notebook designed to perform sta
 
 **Getting Started**
 
-You will need to install from statsmodels, blpapi and ipywidgets pip using the following command:
+You will need to install from statsmodels and ipywidgets pip using the following command:
 
 * !pip install statsmodels    
 * !pip install ipywidgets        
