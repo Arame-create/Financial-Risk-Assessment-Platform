@@ -1,4 +1,4 @@
-**Overview**
+## Overview
 
 This repository contains an interactive Jupyter Notebook designed to perform statistical analysis and risk measurement.             
 
@@ -14,3 +14,16 @@ This repository contains an interactive Jupyter Notebook designed to perform sta
 **edhec_risk_kit.py**  
 
 *Risk Management Module provided by EDHEC*    
+
+**Getting Started**
+
+You will need to install from statsmodels, blpapi and ipywidgets pip using the following command:
+
+* !pip install statsmodels    
+* !pip install ipywidgets        
+
+## User Interface Preview
+
+Here’s what the platform looks like:
+
+![UI Preview](ui_preview.png)
